@@ -1,9 +1,7 @@
 {
   "name": "easy-backend-folder",
   "version": "1.0.2",
-  "bin": {
-    "easy-backend-folder": "cli.js"
-  },
+  
   "files": [
     "template",
     "cli.js"
