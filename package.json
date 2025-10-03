@@ -1,0 +1,33 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "this is just for easy purpose to build backend folder",
+  "keywords": ["npm"],
+  "homepage": "https://github.com/fragisir/easy-backend-folder#readme",
+  "bugs": {
+    "url": "https://github.com/fragisir/easy-backend-folder/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fragisir/easy-backend-folder.git"
+  },
+  "license": "ISC",
+  "author": "roshan basnet",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "mongoose": "^8.19.0",
+    "morgan": "^1.10.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
