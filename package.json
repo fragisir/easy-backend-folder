@@ -1,6 +1,6 @@
 {
   "name": "easy-backend-folder",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "bin": {
     "easy-backend-folder": "cli.js"
   },
@@ -9,7 +9,12 @@
     "cli.js"
   ],
   "description": "this is just for easy purpose to build backend folder",
-  "keywords": ["backend", "template", "nodejs", "express"],
+  "keywords": [
+    "backend",
+    "template",
+    "nodejs",
+    "express"
+  ],
   "homepage": "https://github.com/fragisir/easy-backend-folder#readme",
   "bugs": {
     "url": "https://github.com/fragisir/easy-backend-folder/issues"
